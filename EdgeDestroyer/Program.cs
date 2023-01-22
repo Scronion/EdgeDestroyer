@@ -1,4 +1,7 @@
-﻿namespace EdgeDestroyer
+﻿using System;
+using System.IO;
+
+namespace EdgeDestroyer
 {
     class Program
     {
